@@ -1,0 +1,5 @@
+user_id,matched_user_id,action
+U001,U002,1
+U001,U003,0
+U002,U004,1
+U003,U005,1

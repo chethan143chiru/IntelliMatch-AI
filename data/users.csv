@@ -1,0 +1,6 @@
+user_id,name,profession,mbti,professional_summary,about_me,interests
+U001,Rahul,Data Analyst,INTJ,"Python and AI enthusiast working on analytics","Love solving problems and teamwork","AI, Fitness, Startups"
+U002,Sneha,ML Engineer,ENFP,"Machine learning engineer with NLP experience","Creative thinker and collaborative worker","AI, Reading, Music"
+U003,Arjun,Web Developer,ISTJ,"Frontend developer skilled in React","Focused and disciplined personality","Coding, Gaming, Fitness"
+U004,Priya,UI Designer,INFP,"Creative UI/UX designer with Figma skills","Love art and innovation","Design, Music, Photography"
+U005,Karan,Backend Developer,ENTJ,"Backend engineer working with APIs","Leadership mindset and problem solving","Coding, Startups, AI"
